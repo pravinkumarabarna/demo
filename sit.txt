@@ -1,5 +1,0 @@
-This is the demo class
-this is commit from local
-
-this is commite in git hub
-
